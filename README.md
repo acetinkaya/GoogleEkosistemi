@@ -8,8 +8,10 @@ Google ekosistemi, kullanıcıların dijital işlerini kolaylaştırmak, birlikt
 
 # Google Drive, bulut tabanlı depolama ve dosya paylaşımı sağlar. Tüm dosyalarınızı güvenli bir şekilde saklayabilir, cihazlar arasında senkronize edebilir ve ekip arkadaşlarınızla gerçek zamanlı olarak çalışabilirsiniz.
 
-# Google Colab, veri analizine kadar birçok alanda tercih edilen bulut tabanlı Python programlama dili platformdur. Colab, algoritma, veri yapısı, veri bilimi, makine öğrenimi ve yapay zeka projelerinde veri görselleştirmeye kadar geniş bir kullanım yelpazesi sunar. Google Drive ile doğrudan entegre çalışarak, projelerinizi kolayca depolayabilir ve paylaşabilirsiniz.
+# Google Colab, veri analizine kadar birçok alanda tercih edilen bulut tabanlı Python programlama dili platformdur. Colab, algoritma, veri yapısı, veri bilimi, veri görselleştirme, makine öğrenimi ve yapay zeka projelerinde kadar geniş bir kullanım yelpazesi sunar. Google Drive ile doğrudan entegre çalışarak, projelerinizi kolayca depolayabilir ve paylaşabilirsiniz.
 
-Bu ekosistemlerdeki platformları kullanarak, projelerinizi daha verimli bir şekilde yönetebilir, araştırmalarınızı derinleştirebilir ve hem bireysel hem de ekip çalışmasında profesyonel düzeyde bir başarı elde edebilirsiniz. Eğitim serimize katılarak bu araçları etkin bir şekilde kullanmayı öğrenebilir ve kariyerinize yeni bir yön verebilirsiniz!
+Bu ekosistemlerdeki platformları kullanarak, projelerinizi daha verimli bir şekilde yönetebilir, araştırmalarınızı derinleştirebilir ve hem bireysel hem de ekip çalışmasında profesyonel düzeyde bir başarı elde edebilirsiniz. 
+
+Eğitim serimize katılarak bu araçları etkin bir şekilde kullanmayı öğrenebilir ve kariyerinize yeni bir yön verebilirsiniz!
 
 Bir sonraki dersimizde görüşmek üzere. 
