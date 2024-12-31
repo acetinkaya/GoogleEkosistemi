@@ -15,3 +15,6 @@
 # Eğitim serimize katılarak bu araçları etkin bir şekilde kullanmayı öğrenebilir ve kariyerinize yeni bir yön verebilirsiniz!
 
 # Bir sonraki dersimizde görüşmek üzere. 
+
+# Öğr. Gör. Ali ÇETİNKAYA
+# 31.12.2024
