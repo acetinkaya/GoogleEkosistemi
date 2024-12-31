@@ -6,6 +6,8 @@
 
 # Google Scholar; Dünya üzerinde araştırma altyapısının önemli bir platformdur. Akademik yayınlar ve bilimsel çalışmalar için güçlü bir arama motorudur. Makalelere, tezlere, kitaplara ve diğer akademik içeriklere kolayca erişim sağlayarak araştırma süreçlerini hızlandırır. Ayrıca, atıf takibi, yazar profilleri ve ilgili literatür önerileri gibi özellikleriyle araştırmacılar için vazgeçilmez bir kaynak sunar.
 
+[GoogleScholar Ali Çetinkaya](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)
+
 ![alternatif metin](https://github.com/acetinkaya/GoogleEkosistemi/blob/main/GoogleScholar-AliCetinkaya.png)
 
 
